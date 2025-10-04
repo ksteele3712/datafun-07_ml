@@ -21,8 +21,9 @@ Follow these steps to set up your project:
 1. **Sign into GitHub.**
 2. **Create a repository titled `datafun_07_ml` with a README.**
 3. **Clone the repository to VS Code:**
+
     ```powershell
-git clone https://github.com/ksteele3712/datafun_07_ml
+    git clone https://github.com/ksteele3712/datafun_07_ml
     ```
 
 4. **Create a `.gitignore` file:**
