@@ -18,21 +18,21 @@ datafun-07_ml/
 
 Follow these steps to set up your project:
 
-1. **Sign into GitHub.**
-2. **Create a repository titled `datafun_07_ml` with a README.**
-3. **Clone the repository to VS Code:**
+1. ## Sign into GitHub.
+2. ## Create a repository titled `datafun_07_ml` with a README.
+3. ## Clone the repository to VS Code
 
     ```powershell
     git clone https://github.com/ksteele3712/datafun_07_ml
     ```
 
-4. **Create a `.gitignore` file:**
+4. ## Create a `.gitignore` file:
     - Purpose: Excludes files and folders from being tracked by git (e.g., virtual environments, temporary files, system files).
     - 
-5. **Create a `requirements.txt` file:**
+5. ## Create a `requirements.txt` file:
     - Purpose: Lists all Python packages needed for your project so others can install them easily with `pip install -r requirements.txt`.
 
-6. **Be sure to be in the right terminal directory before installing requirements:**
+6. ## Be sure to be in the right terminal directory before installing requirements:
     - Change to your project folder:
   
     ```powershell
@@ -52,7 +52,7 @@ Follow these steps to set up your project:
     pip install jupyterlab numpy pandas pyarrow matplotlib seaborn scipy
     ```
 
-1. ## 🚀 GitHub Commit Commands- Keep your Github up to Date
+7. ## 🚀 GitHub Commit Commands- Keep your Github up to Date 
 
 Use these commands to commit and push your changes to GitHub:
 
