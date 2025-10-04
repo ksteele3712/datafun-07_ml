@@ -24,8 +24,10 @@ Follow these steps to set up your project:
     ```powershell
 git clone https://github.com/ksteele3712/datafun_07_ml
     ```
+
 4. **Create a `.gitignore` file:**
     - Purpose: Excludes files and folders from being tracked by git (e.g., virtual environments, temporary files, system files).
+    - 
 5. **Create a `requirements.txt` file:**
     - Purpose: Lists all Python packages needed for your project so others can install them easily with `pip install -r requirements.txt`.
 
@@ -44,7 +46,7 @@ py -m pip install --upgrade -r requirements.txt
 pip install jupyterlab pandas pyarrow matplotlib seaborn
     ```
 
-## 🚀 GitHub Commit Commands
+7. ## 🚀 GitHub Commit Commands- Keep your Github up to Date
 
 Use these commands to commit and push your changes to GitHub:
 
@@ -54,9 +56,9 @@ git commit -m "Initialize Repos in Github"
 git push
 ```
 
-## Create a file to work out of.
+8. ## Create a file to work out of.
 
-## 📂 Importing Data Files
+9. ## 📂 Importing Data Files
 
 
 To organize these files, we first created a `data` folder inside our `datafun_07_ml` project directory. We then downloaded the CSV files from their respective sources and placed them in the `data` folder:
