@@ -33,17 +33,16 @@ Follow these steps to set up your project:
     - Purpose: Lists all Python packages needed for your project so others can install them easily with `pip install -r requirements.txt`.
 
 6. **Be sure to be in the right terminal directory before installing requirements:**
-    - Change to your project folder: cd C:\Repos\datafun_07_ml
-  
+    - Change to your project folder:
+    ```powershell
+cd C:\Repos\datafun_07_ml
+    ```
     - Then use these commands to set up your Python environment:
-
     ```powershell
 py -m pip install --upgrade pip setuptools wheel
 py -m pip install --upgrade -r requirements.txt
     ```
-
     - Then use these commands to add in external requirements:
-
     ```powershell
 pip install jupyterlab numpy pandas pyarrow matplotlib seaborn scipy
     ```
