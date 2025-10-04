@@ -37,11 +37,13 @@ Follow these steps to set up your project:
     ```powershell
 cd C:\Repos\datafun_07_ml
     ```
+
     - Then use these commands to set up your Python environment:
     ```powershell
 py -m pip install --upgrade pip setuptools wheel
 py -m pip install --upgrade -r requirements.txt
     ```
+    
     - Then use these commands to add in external requirements:
     ```powershell
 pip install jupyterlab numpy pandas pyarrow matplotlib seaborn scipy
