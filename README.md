@@ -62,9 +62,18 @@ git commit -m "Initialize Repos in Github"
 git push
 ```
 
-8. ## Create a file to work out of.
+8. ## Create a Jupyter Notebook 
+   First make a named ipynb file. Mine is kristinesteele-_ml.ipynb
+   Then click 'select kernel'
+   Click on the venv environment
+   If not available and yet your venv has been activated in your terminal- then after clicking on 'select kernel' instead choosed 'select a different kernel', then 'Python environment' then click on 'venv' option
 
-9. ## 📂 Importing Data Files
+9. ## Delineate the Title and Meaning of Our Notebook
+    This project demonstates how we can make a "line of best fit" to model the meaning of our data. It is a sort of cause and effect pattern. Consequently, our line is relatively predictive in natue, helping us to see likely future results depending on our input.
+
+
+
+10. ## 📂 Importing Data Files
 
 
 To organize these files, we first created a `data` folder inside our `datafun_07_ml` project directory. We then downloaded the CSV files from their respective sources and placed them in the `data` folder:
