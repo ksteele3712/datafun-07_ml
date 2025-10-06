@@ -108,7 +108,7 @@ print(f"Matplotlib version: {plt.matplotlib.__version__}")
 
 ---
 
-## 🎯 **Machine Learning Project Accomplishments**
+## 11. ## 🎯 **Machine Learning Project Accomplishments**
 
 ### **Project Overview: Linear Regression Analysis**
 This project demonstrates practical machine learning through **supervised learning** using **linear regression** to analyze and predict NYC January temperatures. We built a complete data science pipeline from data acquisition to prediction and visualization.
@@ -217,7 +217,7 @@ This project demonstrates practical machine learning through **supervised learni
 
 ---
 
-## 📂 **Data Sources & File Organization**
+## 12. ## 📂 **Data Sources & File Organization**
 
 ### **🌡️ NYC Temperature Datasets**
 
